@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: hsl(257, 40%, 49%) url(images/bg-mobile.svg) no-repeat;
+    color: white;
+    margin: 0 auto;
+}
+header, main, footer {
+    padding: 35px;
+}
+main, footer {
+    text-align: center;
+}
+.huddle-logo {
+    width: 130px;
+}
+.mockup-img {
+    max-width: 100%;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+    margin: 20px 0;
+}
+main p {
+    margin-bottom: 25px;
+}
+button {
+    font-family: 'Open Sans', sans-serif;
+    color:  hsl(257, 40%, 49%);
+    padding:  10px 70px;
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 8px 8px -8px black;
+}
+
